@@ -1,3 +1,5 @@
+# This is a fork of [react-shadow-dom-retarget-events package](https://github.com/spring-media/react-shadow-dom-retarget-events#readme)
+
 # react-shadow-dom-retarget-events
 
 ## What it does
